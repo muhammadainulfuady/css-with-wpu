@@ -1,0 +1,12 @@
+body {
+  background-image: url("../images/fox.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 20rem;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
