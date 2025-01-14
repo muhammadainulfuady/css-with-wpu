@@ -1,0 +1,49 @@
+font-family
+
+    Fungsi: Menentukan jenis font yang digunakan.
+    Kegunaan: Memilih font utama dan cadangan agar teks tampil sesuai desain.
+
+font-size
+
+    Fungsi: Mengatur ukuran font.
+    Kegunaan: Menyesuaikan besar kecilnya teks agar sesuai dengan desain dan keterbacaan.
+
+font-weight
+
+    Fungsi: Mengatur ketebalan font.
+    Kegunaan: Memberikan penekanan atau variasi gaya pada teks (misalnya, teks tebal untuk judul).
+
+font-style
+
+    Fungsi: Menentukan gaya font (normal atau miring).
+    Kegunaan: Memberikan aksen pada teks tertentu, seperti kutipan.
+
+font-variant
+
+    Fungsi: Mengatur varian font, seperti huruf kapital kecil.
+    Kegunaan: Memberikan efek gaya tambahan, terutama untuk elemen dekoratif.
+
+font-stretch
+
+    Fungsi: Mengatur tingkat peregangan font (condensed atau expanded).
+    Kegunaan: Menyesuaikan lebar font untuk tampilan yang lebih unik.
+
+line-height
+
+    Fungsi: Mengatur jarak vertikal antar baris teks.
+    Kegunaan: Meningkatkan keterbacaan teks dengan memberikan ruang antar baris.
+
+letter-spacing
+
+    Fungsi: Mengatur jarak antar huruf.
+    Kegunaan: Menambah atau mengurangi ruang antar huruf untuk estetika atau keterbacaan.
+
+word-spacing
+
+    Fungsi: Mengatur jarak antar kata.
+    Kegunaan: Memberikan efek visual pada teks dengan mengatur ruang antar kata.
+
+font (Shorthand Property)
+
+    Fungsi: Properti singkat untuk mengatur beberapa properti font sekaligus.
+    Kegunaan: Menghemat waktu saat menulis CSS untuk font.

@@ -1,0 +1,22 @@
+Selector di CSS digunakan untuk memilih elemen yang akan dikenakan gaya tertentu.
+
+    Selector Elemen: Memilih elemen berdasarkan nama tag HTML.
+        Contoh: p { color: blue; } (menetapkan warna biru pada semua elemen <p>).
+
+    Selector Kelas: Memilih elemen berdasarkan nilai atribut class.
+        Contoh: .menu { background-color: gray; } (menetapkan latar belakang abu-abu pada elemen dengan kelas menu).
+
+    Selector ID: Memilih elemen berdasarkan nilai atribut id.
+        Contoh: #header { font-size: 24px; } (menetapkan ukuran font 24px pada elemen dengan ID header).
+
+    Selector Atribut: Memilih elemen yang memiliki atribut tertentu dengan nilai yang ditentukan.
+        Contoh: [type="text"] { border: 1px solid black; } (menetapkan border pada elemen dengan atribut type="text").
+
+    Selector Gabungan: Memilih elemen berdasarkan hubungan hierarkis antara elemen.
+        Contoh: div p { color: green; } (menetapkan warna hijau pada elemen <p> di dalam elemen <div>).
+
+    Selector Universal: Memilih semua elemen dalam dokumen.
+        Contoh: * { margin: 0; } (menghapus margin pada semua elemen).
+
+    Selector Pseudo-class: Memilih elemen dalam keadaan atau status tertentu, seperti saat elemen sedang terfokus atau saat pengguna mengarahkannya dengan kursor.
+        Contoh: a:hover { color: red; } (menetapkan warna merah pada elemen <a> ketika kursor berada di atasnya).

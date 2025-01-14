@@ -1,0 +1,11 @@
+Specificity adalah sistem perhitungan prioritas yang digunakan oleh browser untuk menentukan aturan mana yang harus diterapkan ketika ada beberapa aturan CSS yang bertentangan.
+
+    Fungsi: Semakin spesifik selector, semakin tinggi prioritasnya dalam pengaplikasian gaya.
+
+    Perhitungan Specificity: Specificity dihitung berdasarkan tiga komponen:
+        Inline Styles: Gaya yang ditetapkan langsung pada elemen HTML (misalnya, dengan atribut style), yang memiliki prioritas tertinggi.
+        ID Selectors: Selektor yang menggunakan ID (misalnya, #header).
+        Class, Pseudo-class, Attribute Selectors: Selektor berbasis kelas, pseudo-class, dan atribut.
+        Element Selectors: Selektor berbasis tag HTML (misalnya, p).
+
+    Prioritas: Jika dua aturan memiliki selector yang bertentangan, aturan dengan nilai specificity lebih tinggi akan diterapkan. Dalam kasus yang memiliki nilai specificity yang sama, aturan yang muncul terakhir dalam kode akan diprioritaskan.

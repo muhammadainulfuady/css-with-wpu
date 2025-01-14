@@ -1,0 +1,15 @@
+*,
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: yellowgreen;
+}
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  color: tomato;
+  background-color: blueviolet;
+  text-align: center;
+}

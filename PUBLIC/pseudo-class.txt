@@ -1,0 +1,19 @@
+Pseudo-class adalah selektor yang memungkinkan kita memilih elemen berdasarkan kondisi atau status tertentu yang biasanya tidak dapat dipilih dengan selector biasa.
+
+    :hover: Menetapkan gaya elemen ketika kursor berada di atas elemen.
+        Contoh: a:hover { color: red; } (mengubah warna teks menjadi merah ketika elemen <a> di-hover).
+
+    :focus: Menerapkan gaya pada elemen saat elemen tersebut mendapatkan fokus (misalnya, saat input form disorot).
+        Contoh: input:focus { border: 2px solid blue; } (menambahkan border biru pada input saat mendapatkan fokus).
+
+    :nth-child(): Memilih elemen berdasarkan urutan kemunculannya dalam induk elemen.
+        Contoh: li:nth-child(odd) { background-color: gray; } (menetapkan latar belakang abu-abu pada elemen <li> yang urutannya ganjil).
+
+    :first-child: Memilih elemen pertama di dalam induknya.
+        Contoh: ul li:first-child { font-weight: bold; } (menetapkan teks tebal pada elemen <li> pertama dalam <ul>).
+
+    :last-child: Memilih elemen terakhir di dalam induknya.
+        Contoh: ul li:last-child { color: blue; } (menetapkan warna biru pada elemen <li> terakhir dalam <ul>).
+
+    :not(): Memilih elemen yang tidak cocok dengan selektor yang diberikan.
+        Contoh: div:not(.active) { background-color: lightgray; } (menetapkan latar belakang abu-abu muda pada elemen <div> yang tidak memiliki kelas active).

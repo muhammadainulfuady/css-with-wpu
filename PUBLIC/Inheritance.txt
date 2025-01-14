@@ -1,0 +1,7 @@
+Inheritance adalah konsep di mana elemen dapat mewarisi nilai properti dari elemen induknya.
+
+    Fungsi: Beberapa properti CSS, seperti color, font-family, dan font-size, diwariskan oleh elemen anak dari elemen induk. Ini memungkinkan konsistensi dalam desain dan penghematan kode.
+
+    Properti yang Tidak Dwarisi: Beberapa properti, seperti margin, padding, dan border, tidak diwariskan secara default. Untuk elemen anak, Anda harus menentukan nilai properti tersebut secara eksplisit jika diinginkan.
+
+    Menonaktifkan Warisan: Jika Anda tidak ingin sebuah properti diwariskan, Anda bisa menggunakan nilai initial atau inherit untuk mengatur ulang atau meneruskan warisan secara sengaja.

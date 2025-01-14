@@ -1,0 +1,22 @@
+Properti background digunakan untuk mengontrol latar belakang elemen, yang meliputi warna, gambar, posisi, dan pengulangan.
+
+    background-color: Mengatur warna latar belakang elemen. Dapat menggunakan nama warna, kode warna heksadesimal, atau format RGB.
+        Contoh: background-color: red;
+
+    background-image: Menetapkan gambar sebagai latar belakang elemen. Nilainya adalah URL gambar yang ditunjukkan dalam tanda kurung.
+        Contoh: background-image: url('image.jpg');
+
+    background-position: Mengatur posisi gambar latar belakang di dalam elemen. Bisa menggunakan nilai seperti top, center, atau unit pengukuran.
+        Contoh: background-position: center center;
+
+    background-size: Mengatur ukuran gambar latar belakang. Dapat mengubah gambar agar mengisi seluruh elemen atau disesuaikan agar pas dengan elemen.
+        Contoh: background-size: cover;
+
+    background-repeat: Mengontrol apakah gambar latar belakang akan diulang secara vertikal atau horizontal, atau tidak diulang sama sekali.
+        Contoh: background-repeat: no-repeat;
+
+    background-attachment: Menentukan apakah gambar latar belakang bergerak saat halaman digulirkan atau tetap berada di tempatnya.
+        Contoh: background-attachment: fixed;
+
+    background (Shorthand): Properti singkat yang memungkinkan pengaturan beberapa properti latar belakang sekaligus dalam satu deklarasi.
+        Contoh: background: #fff url('image.jpg') no-repeat center center fixed;

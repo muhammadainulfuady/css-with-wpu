@@ -1,0 +1,74 @@
+color
+
+    Fungsi: Mengatur warna teks.
+    Kegunaan: Memberikan warna pada teks untuk menarik perhatian atau menyesuaikan tema.
+
+text-align
+
+    Fungsi: Mengatur perataan teks dalam elemen.
+    Kegunaan: Menyusun teks agar lebih terstruktur dan mudah dibaca.
+
+text-decoration
+
+    Fungsi: Menambahkan atau menghapus dekorasi teks (seperti garis bawah).
+    Kegunaan: Menonjolkan teks tertentu, seperti tautan atau penekanan.
+
+text-indent
+
+    Fungsi: Mengatur indentasi baris pertama teks.
+    Kegunaan: Memberikan struktur visual yang lebih baik pada paragraf.
+
+text-transform
+
+    Fungsi: Mengatur transformasi huruf (kapitalisasi atau huruf kecil).
+    Kegunaan: Mengubah gaya huruf tanpa memodifikasi teks asli.
+
+letter-spacing
+
+    Fungsi: Mengatur jarak antar huruf.
+    Kegunaan: Memberikan efek visual dan meningkatkan keterbacaan.
+
+word-spacing
+
+    Fungsi: Mengatur jarak antar kata.
+    Kegunaan: Menambah atau mengurangi ruang antar kata sesuai desain.
+
+line-height
+
+    Fungsi: Mengatur jarak antar baris teks.
+    Kegunaan: Memperbaiki keterbacaan dengan memberikan ruang antar baris.
+
+white-space
+
+    Fungsi: Mengatur cara ruang kosong dan baris baru ditampilkan.
+    Kegunaan: Mengontrol tampilan teks dengan ruang kosong tertentu.
+
+direction
+
+    Fungsi: Menentukan arah teks dalam elemen (kiri ke kanan atau sebaliknya).
+    Kegunaan: Mendukung tata letak bahasa tertentu, seperti Arab atau Ibrani.
+
+text-shadow
+
+    Fungsi: Menambahkan bayangan pada teks.
+    Kegunaan: Memberikan efek visual yang menarik pada teks.
+
+vertical-align
+
+    Fungsi: Mengatur perataan vertikal elemen inline atau teks dalam elemen blok.
+    Kegunaan: Menyesuaikan posisi elemen seperti teks atau gambar kecil.
+
+writing-mode
+
+    Fungsi: Menentukan arah dan orientasi teks (horizontal atau vertikal).
+    Kegunaan: Mendukung tata letak teks dalam bahasa vertikal seperti Jepang atau Mandarin.
+
+overflow-wrap
+
+    Fungsi: Mengatur pemotongan kata saat teks melebihi batas elemen.
+    Kegunaan: Menghindari teks yang melampaui batas elemen dan merusak tata letak.
+
+hyphens
+
+    Fungsi: Mengatur pemisahan kata dengan tanda hubung jika diperlukan.
+    Kegunaan: Membantu menyesuaikan teks dengan lebar elemen, terutama dalam bahasa tertentu.
